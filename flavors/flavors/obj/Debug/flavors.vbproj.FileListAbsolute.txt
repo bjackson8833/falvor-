@@ -1,0 +1,13 @@
+C:\Users\bjackson8833\Desktop\vb data files\4\flavors\flavors\obj\Debug\flavors.vbproj.AssemblyReference.cache
+C:\Users\bjackson8833\Desktop\vb data files\4\flavors\flavors\obj\Debug\flavors.vbproj.SuggestedBindingRedirects.cache
+C:\Users\bjackson8833\Desktop\vb data files\4\flavors\flavors\obj\Debug\flavors.frmMain.resources
+C:\Users\bjackson8833\Desktop\vb data files\4\flavors\flavors\obj\Debug\flavors.Resources.resources
+C:\Users\bjackson8833\Desktop\vb data files\4\flavors\flavors\obj\Debug\flavors.vbproj.GenerateResource.cache
+C:\Users\bjackson8833\Desktop\vb data files\4\flavors\flavors\obj\Debug\flavors.vbproj.CoreCompileInputs.cache
+C:\Users\bjackson8833\Desktop\vb data files\4\flavors\flavors\bin\Debug\flavors.exe.config
+C:\Users\bjackson8833\Desktop\vb data files\4\flavors\flavors\bin\Debug\flavors.exe
+C:\Users\bjackson8833\Desktop\vb data files\4\flavors\flavors\bin\Debug\flavors.pdb
+C:\Users\bjackson8833\Desktop\vb data files\4\flavors\flavors\bin\Debug\flavors.xml
+C:\Users\bjackson8833\Desktop\vb data files\4\flavors\flavors\obj\Debug\flavors.exe
+C:\Users\bjackson8833\Desktop\vb data files\4\flavors\flavors\obj\Debug\flavors.xml
+C:\Users\bjackson8833\Desktop\vb data files\4\flavors\flavors\obj\Debug\flavors.pdb
